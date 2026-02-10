@@ -6,8 +6,8 @@ import { RegisterSuccessPage } from '../../pages/registersuccesspage';
 test('Test the Mercury Tours Website', async ({ page }) => {
 
   // Test data (defined ONCE)
-  const firstName = 'Leo';
-  const lastName = 'Daas';
+  const firstName = 'Test';
+  const lastName = 'Project';
   const phone = '0779841257';
   const email = 'demo.t@gmail.com';
   const address = '131 3/1 Park Street';
