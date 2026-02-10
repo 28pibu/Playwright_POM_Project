@@ -7,7 +7,7 @@ test('Test the Mercury Tours Website', async ({ page }) => {
 
   // Test data (defined ONCE)
   const firstName = 'Leo';
-  const lastName = 'Test';
+  const lastName = 'Daas';
   const phone = '0779841257';
   const email = 'demo.t@gmail.com';
   const address = '131 3/1 Park Street';
